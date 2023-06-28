@@ -3,7 +3,7 @@ import 'dart:io';
 void main(){
   //leer 3 numeros del usuario
   print("Ingrese el primer número: ");
-  double num1=double.parse(stdin.readLineSync()!);
+   double num1=double.parse(stdin.readLineSync()!);
 
   print("Ingrese el segundo número: ");
   double num2=double.parse(stdin.readLineSync()!);
